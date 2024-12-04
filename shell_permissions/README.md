@@ -1,2 +1,2 @@
-# The 0-iam_betty script switches the current user to user betty
+This repo contains different directories covering different aspects of using the linux shell
 
